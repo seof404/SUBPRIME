@@ -40,7 +40,7 @@ comme la pression est plus forte en bas que en haut alors le système est pouss�
 
 $$ \overrightarrow{P_A} = \rho_{eau}\*V_{déplacé}\*g $$
 
-masse volumique de l'eau $\rho_{eau} = 997 kg.m^3
+masse volumique de l'eau $\rho_{eau} = 997 kg.m^3$
 
 
 
